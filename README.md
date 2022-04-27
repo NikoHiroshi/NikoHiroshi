@@ -1,4 +1,5 @@
 <h1>WhatsApp, Niko Hiroshi here!</h1>
+<img src="https://adala-news.fr/wp-content/uploads/2020/02/Yurucamp-anime-image-008.png">
 
 <!--
 **NikoHiroshi/NikoHiroshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
