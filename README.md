@@ -2,7 +2,7 @@
 <h1>Hello there, Niko Hiroshi here!</h1>
 </div>
 <div align="center">
-<img align="center" src="https://adala-news.fr/wp-content/uploads/2020/02/Yurucamp-anime-image-008.png">
+<img align="center" src="https://i.imgur.com/q6sKUKi.jpg">
 </div>
 
 <div align="center">
