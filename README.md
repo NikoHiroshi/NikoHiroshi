@@ -1,7 +1,4 @@
 <div align="center">
-<h1>Hello there, Niko Hiroshi here!</h1>
-</div>
-<div align="center">
 <img align="center" src="https://i.imgur.com/q6sKUKi.jpg">
 </div>
 
