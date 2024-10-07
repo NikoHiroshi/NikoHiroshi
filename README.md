@@ -1,3 +1,3 @@
 <div align="center">
-<img align="center" src="https://i.imgur.com/q6sKUKi.jpg">
+<h1>Welcome to my profile!</h1>
 </div>
